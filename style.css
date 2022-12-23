@@ -14,7 +14,13 @@ ul.intro-list li li {
   color: rgb(241, 232, 232);
 }
 a:visited {
-  color: rgb(10, 32, 228);
+  color: white;
+}
+.a1 {
+  color: aliceblue;
+}
+a1:visited {
+  color: aliceblue;
 }
 #haha {
   padding: 9px 5px 9px 5px;
@@ -148,7 +154,7 @@ a:visited {
 }
 .btn {
   color: blue;
-  width: 100px;
+  width: 300px;
   cursor: pointer;
 }
 .invisible {
