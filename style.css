@@ -14,7 +14,7 @@ ul.intro-list li li {
   color: rgb(241, 232, 232);
 }
 a:visited {
-  color: white;
+  color: blue;
 }
 .a1 {
   color: aliceblue;
@@ -108,7 +108,7 @@ a1:visited {
 }
 .title {
   display: flex;
-  background-color: rgb(53, 51, 51);
+  background-color: black;
   width: auto;
   margin: 0 auto;
   padding: 25px;
@@ -140,19 +140,33 @@ a1:visited {
   width: 400px;
   color: white;
   font-size: 50px;
+  margin-left:auto;
+  margin-right: auto;
 }
 .ti5 {
   width: 400px;
   color: white;
   font-size: 50px;
+  margin-left:auto;
+  margin-right: auto;
 }
 .ti6 {
   width: 400px;
   color: white;
   font-size: 50px;
+  margin-left:auto;
+  margin-right: auto;
 }
 .p1 {
   margin-right: auto;
+}
+.p2{
+  margin-left: 0;
+}
+.p3{
+  margin-right: auto;
+  font-size: 400%;
+  flex-grow: 1;
 }
 .btn {
   color: blue;

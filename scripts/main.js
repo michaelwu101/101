@@ -1,5 +1,4 @@
 let myHeading = document.querySelector("h1");
-myHeading.textContent = "Hello world!";
 function toggle_info1() {
   const foo = document.getElementById("cat1");
   // 取得 `foo` 的 class 列表。
